@@ -7,5 +7,5 @@ download https://www.pling.com/p/2304553/
 
 install method
 install method for plasma 6 install from kde widget store on desktop or download from browser extract and place in /home/$USER/.local/share/plasma/plasmoids/
-
+right click taskbar click add or manager widgets and type widgetpoweroptions drag to desktop or taskbar
 <img width="1280" height="800" alt="widgets" src="https://github.com/user-attachments/assets/fc382152-99f3-41ef-b231-33fb8a473ac6" />
